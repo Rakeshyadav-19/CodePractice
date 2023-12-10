@@ -1,1 +1,1 @@
-# CodingNinja
+#Learning from Sololearn
